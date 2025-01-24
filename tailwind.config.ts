@@ -10,8 +10,10 @@ export default {
     extend: {
       colors: {
         defaultColor: "#171717",
-        textColor: "#ededed",
-        textLink: "#00FFFF",
+        defaultTextColor: "#EDEDED",
+        defaultTextLink: "#00FFFF",
+        defaultBorderColor: "#D1D5DB",
+        defaultBlueColor: "#1E3A8A",
       },
     },
   },
