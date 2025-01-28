@@ -52,7 +52,7 @@ export default function Home() {
         </div>
       </aside>
 
-      <div className="w-screen h-auto p-6">
+      <div className="min-w-screen h-auto p-6">
         <main className="flex flex-col items-center justify-center gap-6">
           <div className="w-full md:max-w-[32rem] lg:max-w-[48rem] flex flex-row items-start justify-center relative">
             <Image
